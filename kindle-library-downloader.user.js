@@ -17,8 +17,8 @@
 // @match        https://www.amazon.es/*/*/digital-console/contentlist/booksAll/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=amazon.com
 // @grant        none
-// @downloadURL  https://github.com/Make-Fun-Stuff/kindle-library-downloader/raw/refs/heads/main/kindle-library-downloader.user.js
-// @updateURL  https://github.com/Make-Fun-Stuff/kindle-library-downloader/raw/refs/heads/main/kindle-library-downloader.user.js
+// @downloadURL  https://github.com/jsobrino/kindle-library-downloader/raw/refs/heads/main/kindle-library-downloader.user.js
+// @updateURL  https://github.com/jsobrino/kindle-library-downloader/raw/refs/heads/main/kindle-library-downloader.user.js
 // ==/UserScript==
 
 const TEST_MODE = false; // turn on to download a single book from the current page (for testing)
